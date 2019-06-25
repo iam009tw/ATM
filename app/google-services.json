@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "862417348567",
+    "firebase_url": "https://atmtest-ab434.firebaseio.com",
+    "project_id": "atmtest-ab434",
+    "storage_bucket": "atmtest-ab434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862417348567:android:860f3d0d6269f1c2",
+        "android_client_info": {
+          "package_name": "com.kami.atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862417348567-7gphn545ulr16fd1jo04jsfm51n4s7jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kami.atm",
+            "certificate_hash": "a7b6b2d48e8791301e96f6a99a8bd6844773935c"
+          }
+        },
+        {
+          "client_id": "862417348567-8d7o4cv0l9ughklv56tcct0irddrm1c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdMYRtFzAZbLsAKM1y3_w-efMWR1ppz5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862417348567-8d7o4cv0l9ughklv56tcct0irddrm1c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
